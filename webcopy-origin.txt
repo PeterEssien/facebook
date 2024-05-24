@@ -1,0 +1,100 @@
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/TwAHgQi2ZPB.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yB\r\TwAHgQi2ZPB.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/6oZO5zjhedE.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yg\r\6oZO5zjhedE.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yh/r/oS9Nfw0_iQb.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yh\r\oS9Nfw0_iQb.js
+Content Type: application/x-javascript
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/xgVgalBG80z.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yH\r\xgVgalBG80z.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yI/l/0,cross/P52EQvM7dkh.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yI\l\0,cross\P52EQvM7dkh.css
+Content Type: text/css
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/yotEdcUw9Gj.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yi\l\0,cross\yotEdcUw9Gj.css
+Content Type: text/css
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yi/r/VWDhCULazb5.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yi\r\VWDhCULazb5.js
+Content Type: application/x-javascript
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/swFqSxKYa5M.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yk\r\swFqSxKYa5M.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/unHwF9CkMyM.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yL\r\unHwF9CkMyM.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yo/l/0,cross/X97kX_hogH7.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yo\l\0,cross\X97kX_hogH7.css
+Content Type: text/css
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/pthdVM-uXcX.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yP\r\pthdVM-uXcX.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Yrq8Y9PlN02.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yP\r\Yrq8Y9PlN02.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yu/l/0,cross/sWkCOGCM5KK.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yu\l\0,cross\sWkCOGCM5KK.css
+Content Type: text/css
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/O7nelmd9XSI.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yU\r\O7nelmd9XSI.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yu/r/PmjSkvyqVM-.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yu\r\PmjSkvyqVM-.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/je5FEJkU1_K.png
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\yZ\r\je5FEJkU1_K.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/SIWYF3PbVOx.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3\y_\l\0,cross\SIWYF3PbVOx.css
+Content Type: text/css
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3ij9m4/y4/l/en_GB/9mS1iFuh_oZ.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\v3ij9m4\y4\l\en_GB\9mS1iFuh_oZ.js
+Content Type: application/x-javascript
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\y1\r\4lCu2zih0ca.svg
+Content Type: image/svg+xml
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/yv/r/B8BxsscfVBr.ico
+File Name: C:\Downloaded Web Sites\www.facebook.com\rsrc.php\yv\r\B8BxsscfVBr.ico
+Content Type: image/x-icon
+
+Uri: https://www.facebook.com/data/manifest/
+File Name: C:\Downloaded Web Sites\www.facebook.com\data\manifest\index.htm
+Content Type: application/json
+
+Uri: https://www.facebook.com/login/
+File Name: C:\Downloaded Web Sites\www.facebook.com\login\index-2.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/login/?next=https:%2F%2Fwww.facebook.com%2F
+File Name: C:\Downloaded Web Sites\www.facebook.com\login\index.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/login/?next=https:%2F%2Fwww.facebook.com%2F&_fb_noscript=1
+File Name: C:\Downloaded Web Sites\www.facebook.com\login\index-1.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/login/web/
+File Name: C:\Downloaded Web Sites\www.facebook.com\login\web\index.htm
+Content Type: text/html
+
